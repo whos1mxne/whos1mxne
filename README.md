@@ -2,8 +2,7 @@
 
 **Data Scientist | Machine Learning Engineer | Statistics Student at ENSSEA**
 
-I build **end-to-end machine learning systems**, from raw data processing and feature engineering to model training, evaluation, and deployment.  
-I focus on extracting meaningful insights from complex datasets and designing predictive models that solve real-world problems.
+I build **end-to-end machine learning systems**, from raw data processing and feature engineering to model training, evaluation, and deployment. I focus on extracting meaningful insights from complex datasets and designing predictive models that solve real-world problems.
 
 I am passionate about **machine learning, deep learning, and statistical modeling**, combining rigorous quantitative methods with practical engineering.
 
@@ -16,17 +15,23 @@ I am passionate about **machine learning, deep learning, and statistical modelin
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-00B14F?style=for-the-badge&logo=lightgbm&logoColor=white)
-![Decision Trees](https://img.shields.io/badge/Decision_Trees-8B0000?style=for-the-badge)
-![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge)
-![SVM](https://img.shields.io/badge/SVM-1C1C1C?style=for-the-badge)
 ![KNN](https://img.shields.io/badge/KNN-6C6C6C?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SVM](https://img.shields.io/badge/SVM-1C1C1C?style=for-the-badge)
+
+- Supervised & Unsupervised Learning  
+- Ensemble Methods: Random Forest, Gradient Boosting  
+- Decision Trees, K-Nearest Neighbors, SVM  
+- Feature Engineering, Model Evaluation & Cross-Validation  
+- Statistical Modeling & Predictive Analytics  
+- Data Management & Excel Analysis 
 
 ### Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![CNN](https://img.shields.io/badge/Convolutional_NN-800080?style=for-the-badge)
-![NN from Scratch](https://img.shields.io/badge/NN_from_Scratch-FF69B4?style=for-the-badge)
+
+- Convolutional Neural Networks (CNN)  
+- Neural Networks from Scratch  
+- Computer Vision  
 
 ### Data Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -36,25 +41,22 @@ I am passionate about **machine learning, deep learning, and statistical modelin
 
 ---
 
-## 🚀 Current Focus
-
-![Kaggle](https://img.shields.io/badge/Kaggle-Competitions-F7931E?style=for-the-badge&logo=kaggle&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-Active-EE4C2C?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects_in_Progress-0000FF?style=for-the-badge)
-
-- Advanced machine learning pipelines  
-- Kaggle competitions  
-- Deep learning architectures  
-- Real-world data science projects  
-
----
-
 ## 📈 GitHub Stats
 
 ![Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whos1mxne&show_icons=true&theme=radical)
 
 **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whos1mxne&layout=compact&theme=radical)
+![Top Languages]
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=whos1mxne&layout=compact&theme=radical)
+
+---
+
+## 🎯 Current Focus
+- Advanced machine learning pipelines  
+- Kaggle competitions  
+- Deep learning architectures  
+- Real-world data science projects  
 
 ---
 

@@ -65,26 +65,6 @@ I am particularly interested in **machine learning, deep learning, and statistic
 
 ---
 
-## 📊 Featured Projects
-
-### Churn Prediction System
-
-Machine learning pipeline for predicting customer churn with feature engineering, cross-validation, and model optimization.
-
-### Dog vs Cat Image Classification
-
-Deep learning computer vision model using convolutional neural networks.
-
-### House Price Prediction
-
-Regression models trained on structured housing data to estimate property values.
-
-### Neural Network from Scratch
-
-Implementation of a neural network using only NumPy to classify handwritten digits (MNIST).
-
----
-
 ## 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whos1mxne\&show_icons=true)

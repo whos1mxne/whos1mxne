@@ -1,57 +1,111 @@
-## 👋 Hi, I'm Amine Kerfi
+# Hi, I'm Amine Kerfi 👋
 
-Data Scientist | Machine Learning Engineer | Statistics & AI Enthusiast
+**Data Scientist | Machine Learning Engineer | Statistics Student at ENSSEA**
 
-I’m a data science student at ENSSEA (National School of Statistics and Applied Economics) with a strong interest in transforming raw data into actionable insights. My work focuses on machine learning, predictive modeling, and statistical analysis.
+I specialize in building **end-to-end machine learning systems**, from raw data processing and feature engineering to model training, evaluation, and deployment. My work focuses on extracting meaningful insights from complex datasets and designing predictive models that solve real-world problems.
 
-I enjoy building complete data science pipelines — from data preprocessing and feature engineering to model training, evaluation, and visualization.
+I am particularly interested in **machine learning, deep learning, and statistical modeling**, combining rigorous quantitative methods with practical engineering.
 
-### 🔬 Areas of Interest
+---
 
-* Machine Learning
-* Deep Learning
-* Data Analysis & Visualization
-* Statistics & Mathematical Modeling
-* Predictive Modeling
-* Data-driven Decision Making
+## 🧠 Core Expertise
 
-### 🧠 Technical Skills
+**Machine Learning**
 
-**Languages & Tools**
+* Supervised & Unsupervised Learning
+* Feature Engineering
+* Model Evaluation & Cross-Validation
+* Ensemble Methods
+
+**Deep Learning**
+
+* Convolutional Neural Networks
+* Neural Networks from Scratch
+* Computer Vision
+
+**Data Science**
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis
+* Statistical Modeling
+* Predictive Analytics
+
+---
+
+## 🛠 Technical Stack
+
+**Programming**
 
 * Python
 * SQL
-* Git
-* Jupyter Notebook
-* Excel
 
-**Data Science & ML**
+**Machine Learning**
 
 * Scikit-learn
-* Pandas
-* NumPy
-* XGBoost / LightGBM
-* Feature Engineering
-* Model Evaluation
+* XGBoost
+* LightGBM
 
 **Deep Learning**
 
 * PyTorch
 * TensorFlow
-* Convolutional Neural Networks
-* Neural Networks from Scratch
 
-### 📊 Selected Projects
+**Data Tools**
 
-* Customer Churn Prediction (Kaggle ML Pipeline)
-* House Price Prediction (Regression Models)
-* Dog vs Cat Image Classification (CNN)
-* Neural Network from Scratch (MNIST Digit Recognition)
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
 
-### 🎯 Philosophy
+**Development**
 
-I believe the real power of data science lies not just in building models, but in **asking the right questions and extracting meaningful patterns from complex data**.
+* Git
+* GitHub
+* Jupyter Notebook
 
-### 🌐 Connect With Me
+---
+
+## 📊 Featured Projects
+
+### Churn Prediction System
+
+Machine learning pipeline for predicting customer churn with feature engineering, cross-validation, and model optimization.
+
+### Dog vs Cat Image Classification
+
+Deep learning computer vision model using convolutional neural networks.
+
+### House Price Prediction
+
+Regression models trained on structured housing data to estimate property values.
+
+### Neural Network from Scratch
+
+Implementation of a neural network using only NumPy to classify handwritten digits (MNIST).
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whos1mxne\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whos1mxne\&layout=compact)
+
+---
+
+## 🎯 Current Focus
+
+* Advanced machine learning pipelines
+* Kaggle competitions
+* Deep learning architectures
+* Real-world data science projects
+
+---
+
+## 🌐 Connect With Me
 
 GitHub: https://github.com/whos1mxne
+
+---
+
+⭐ If you find my work interesting, feel free to explore my repositories.

@@ -105,6 +105,7 @@ Implementation of a neural network using only NumPy to classify handwritten digi
 ## 🌐 Connect With Me
 
 GitHub: https://github.com/whos1mxne
+LinkedIn: https://www.linkedin.com/in/amine-kerfi-06a53838b/
 
 ---
 

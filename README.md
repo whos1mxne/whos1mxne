@@ -37,7 +37,7 @@ I am particularly interested in **machine learning, deep learning, and statistic
 **Programming**
 
 * Python
-* SQL
+* R
 
 **Machine Learning**
 

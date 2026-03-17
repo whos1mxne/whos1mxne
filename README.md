@@ -23,7 +23,7 @@ I am passionate about **machine learning, deep learning, and statistical modelin
 - Decision Trees, K-Nearest Neighbors, SVM  
 - Feature Engineering, Model Evaluation & Cross-Validation  
 - Statistical Modeling & Predictive Analytics  
-- Data Management & Excel Analysis ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- Data Management & Excel Analysis 
 
 ### Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)

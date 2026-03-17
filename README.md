@@ -46,9 +46,8 @@ I am passionate about **machine learning, deep learning, and statistical modelin
 ![Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=whos1mxne&show_icons=true&theme=radical)
 
 **Top Languages**
-![Top Languages]
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=whos1mxne&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whos1mxne&layout=compact&theme=radical)
 
 ---
 
